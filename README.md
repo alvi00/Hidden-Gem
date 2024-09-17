@@ -1,10 +1,4 @@
-# Part C: Brief Report
-
-**Student ID:** Dummy ID  
-**Student Name:** Dummy Name  
-**Link to Prototype on OneDrive:** [Paste link here](#)
-
----
+# Brief Report
 
 ## Randomly Generated Scenario:
 
